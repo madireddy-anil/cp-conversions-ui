@@ -1,0 +1,14 @@
+{
+  "userId": "13801a38-ea1e-48de-b39b-e5f3f9b65632",
+  "entityName": "test RMZ pvt ltd",
+  "paymentReference": "PAY202304131555065635PAYM",
+  "paymentCurrency": "USD",
+  "paymentType": "Received",
+  "paymentStatus": "Completed",
+  "beneName": "External Bene - CAD",
+  "beneCurrency": "USD",
+  "beneStatus": "Approved",
+
+  "loginBtn": "Log In",
+  "newPaymentBtn": "PRIVATE: New Payment"
+}

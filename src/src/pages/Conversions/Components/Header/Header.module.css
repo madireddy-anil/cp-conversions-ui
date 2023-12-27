@@ -1,0 +1,11 @@
+.pms_search {
+  margin-bottom: 2%;
+}
+.pay_searchFilters-btn {
+  display: flex;
+  align-items: center;
+}
+
+.conversions-dashboard-title {
+  margin: -5px 0 30px 0;
+}

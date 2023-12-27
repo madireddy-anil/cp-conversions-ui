@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "target": "ES6",
+    "allowJs": true,
+    "jsx": "react",
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "lib": ["es6", "dom"],
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "baseUrl": "./src",
+    "paths": {
+      "asset": ["assets"],
+      "component": ["components"],
+      "config": ["config"],
+      "pages": ["pages"],
+      "router": ["router"],
+      "state": ["state"],
+      "services": ["services"],
+      "utils": ["utils"],
+      "graphql": ["graphql"],
+      "app": ["app"]
+    },
+    "plugins": [{ "name": "typescript-plugin-css-modules" }]
+  },
+  //config for running NodeJs with typescript
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
+  "include": ["src/**/*", "typings/global.d.ts", "webpack.config.ts", "src/hooks", "cypress.d.ts", "cypress.config.ts"],
+  "exclude": ["node_modules", "cypress", "src/__generated__/**/*"]
+}

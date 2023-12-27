@@ -1,0 +1,9 @@
+{
+  "cancel": "Cancel",
+  "createAccount": "Create Account",
+  "createNewAccount": "Create New Account",
+  "selectCurrency": "Select Currency",
+  "selectOptions": "Select Options",
+  "noSellAccountErr": "You don’t have any accounts in the sell currencies offered for the buy currency you have chosen.",
+  "noBuyAccountErr": "There is an error with sell currency selected. Please contact customer support."
+}

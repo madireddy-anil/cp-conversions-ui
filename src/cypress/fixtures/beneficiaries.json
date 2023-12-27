@@ -1,0 +1,16 @@
+{
+  "BeneficiaryFullTextSearch": [
+    {
+      "id": "34f686f6-8ce9-475b-911a-0bb90651027a",
+      "status": "approved",
+      "currency": "GBP",
+      "mainCurrency": null,
+      "accountDetails": {
+        "nameOnAccount": "new external bene",
+        "accountNumber": "10580700",
+        "__typename": "AccountDetails"
+      },
+      "__typename": "Beneficiary"
+    }
+  ]
+}

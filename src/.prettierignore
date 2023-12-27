@@ -1,0 +1,14 @@
+node_modules
+.webpack
+.build
+__generated__
+.npmrc
+.vscode
+.nyc_output
+package-lock.json
+
+# testing
+coverage
+
+# env
+env

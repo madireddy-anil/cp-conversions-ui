@@ -1,0 +1,29 @@
+{
+  "AccountsFullTextSearch": [
+    {
+      "accountIdentification": {
+        "accountNumber": "00002903",
+        "__typename": "AccountIdentification"
+      },
+      "accountName": "New GBP Virtual Account - 01NOV22",
+      "availableBalance": "203829.13",
+      "currency": "GBP",
+      "mainCurrency": null,
+      "id": "15292230-91cc-4189-97bb-0e95001276b4",
+      "__typename": "Account"
+    },
+    {
+      "accountIdentification": {
+        "accountNumber": "tb1qhftewvgsh7c6jkahuffdy5kyjxxmz0lge7rqwq",
+        "__typename": "AccountIdentification"
+      },
+      "accountNumber": "tb1qhftewvgsh7c6jkahuffdy5kyjxxmz0lge7rqwq",
+      "accountName": "BTC test account",
+      "availableBalance": "0",
+      "currency": "BTC",
+      "id": "ff85262f-8c41-4e87-a23d-9cc27132f324",
+      "mainCurrency": null,
+      "__typename": "Account"
+    }
+  ]
+}
